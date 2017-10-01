@@ -1,3 +1,5 @@
-# vaadin-crud
+# CRUD UI with Vaadin framework
 
-После импорта этого проекта в IDE запустите файл Application.java как java-приложение
+- Download **Eclipse IDE for Java EE Developers**
+- Import this project by doing: **File -> Import -> Maven -> Existing Maven Projects**
+- Run **Application.java** as Java Application
