@@ -1,6 +1,10 @@
 # CRUD UI with Vaadin framework
 
-- Download **Eclipse IDE for Java EE Developers**
-- Import this project by clicking: **File -> Import -> Maven -> Existing Maven Projects**
-- Run **Application.java** as Java Application
-- In your browser go to the **http://localhost:8080/**
+**Eclipse IDE for Java EE Developers**
+- File -> Import -> Maven -> Existing Maven Projects
+
+**IntelliJ IDEA**
+- Import Project -> *path to project* -> pom.xml
+
+- Run **Application.java** 
+- In your browser navigate to the **http://localhost:8080/**
